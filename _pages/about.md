@@ -37,7 +37,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 ## Demo Pages
 
-| Name                                        | Description                                           |
+<!-- | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | [Post with Header Image][header-image-post] | A post with a large header image. |
 | [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
@@ -56,7 +56,7 @@ For even more demo pages check the [posts archive][year-archive].
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+[year-archive]: {{ "/year-archive/" | relative_url }} -->
 
 ---
 
