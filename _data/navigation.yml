@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: https://yomyomiii.github.io/
+    url: /splash-page/
   - title: "Posts"
-    url: https://yomyomiii.github.io/categories/
+    url: /categories/
   - title: "Develop"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: minimal-mistakes/docs/quick-start-guide/
